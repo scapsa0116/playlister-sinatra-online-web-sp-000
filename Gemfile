@@ -17,4 +17,6 @@ group :test do
   gem 'capybara'
   gem 'rack-test'
   gem 'database_cleaner'
+
 end
+gem 'rack-flash3'
